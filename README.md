@@ -1,9 +1,11 @@
-Hi there wave
+Hi there 
 My name is shriram and I'm a computer science student from Canada. Here's some info about me!
 
-\Current project:
+projects:
+slack-clone and lireddit (next.js + graphQL + postgreSQL + express)
+whatsapp clone (android chat app)
+to-do-list( android app)
 
-Financial stocks DD analysis and classification (r/WallStreetBets) (ReactJS + Python/Django + PySpark + scitkit-learn).
 seedling Interests:
 
 Web development.
