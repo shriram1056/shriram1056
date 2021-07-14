@@ -1,16 +1,16 @@
 Hi there 
-My name is shriram and I'm a computer science student from Canada. Here's some info about me!
+</br>My name is shriram and I'm a computer science student from Canada. Here's some info about me!
 
 projects:
-slack-clone and lireddit (next.js + graphQL + postgreSQL + express)
-whatsapp clone (android chat app)
-to-do-list( android app)
+</br>slack-clone and lireddit (next.js + graphQL + postgreSQL + express)
+</br>whatsapp clone (android chat app)
+</br>to-do-list( android app)
 
-seedling Interests:
+Interests:
 
-Web development.
-Data analytics (AI/ML).
-YouTube/Twitch.
-speech_balloon Reach me by email or LinkedIn! matthewdukepan@gmail.com | www.linkedin.com/in/matthewdukepan
+</br>Web development.
+</br>Data analytics (AI/ML).
 
-mailbox Visit my website: https://matthewpancv.web.app
+Reach me by email or LinkedIn! shriram1056@outlook.com |https://www.linkedin.com/in/shriram-saravanan-283747206/
+
+
