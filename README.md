@@ -3,7 +3,7 @@ Hi there
 
 projects:
 </br>charade and lireddit (next.js + graphQL + postgreSQL + express)
-</br>chaton (android chat app)
+</br>chaton (android chat app + firebase)
 </br>to-do-list( android app)
 
 Interests:
