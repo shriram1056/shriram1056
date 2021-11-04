@@ -8,9 +8,8 @@
 - to-do-list( android app)
 
 🧠 Interests:
-</br>
-</br>- cloud computing.
-</br>- Data analytics (AI/ML).
+- cloud computing.
+- Data analytics (AI/ML).
 
 📫 Reach me by email or LinkedIn! shriram1056@outlook.com |https://www.linkedin.com/in/shriram-saravanan-283747206/
 
